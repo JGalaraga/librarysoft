@@ -1,3 +1,4 @@
+require('dotenv').config()
 const express = require('express') //incluir un paquete en node
 const hbs =require('hbs')
 const app = express()
